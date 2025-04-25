@@ -23,7 +23,7 @@ Welcome to the **Diseases Tracker** project! This system aims to predict the lik
 
 This project was developed as a collaborative effort by:
 
-- Rahul Patil
-- Manas Patekar
+- Rahul Patil (https://github.com/Rvpatil-tech)
+- Manas Patekar (https://github.com/ManasPatekar/Macros)
 - Kushal Neve
 - Tanmay Kokare
