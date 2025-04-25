@@ -13,3 +13,6 @@ Welcome to the **Diseases Tracker** project! This system aims to predict the lik
 - **Real-Time Results:** Instant feedback on the likelihood of a disease based on input data.
 
 ---
+## Run the project :
+<code>python -m streamlit run p5interface.py
+</code>
