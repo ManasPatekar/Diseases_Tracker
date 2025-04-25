@@ -1,0 +1,6 @@
+numpy 
+pandas
+scikit-learn
+streamlit_option_menu
+streamlit
+PIL
