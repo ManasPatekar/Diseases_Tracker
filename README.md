@@ -16,3 +16,14 @@ Welcome to the **Diseases Tracker** project! This system aims to predict the lik
 ## Run the project :
 <code>python -m streamlit run p5interface.py
 </code>
+
+---
+
+## 👨‍💻 Team Members
+
+This project was developed as a collaborative effort by:
+
+- Rahul Patil
+- Manas Patekar
+- Kushal Neve
+- Tanmay Kokare
