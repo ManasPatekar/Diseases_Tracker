@@ -25,5 +25,5 @@ This project was developed as a collaborative effort by:
 
 - Rahul Patil (https://github.com/Rvpatil-tech)
 - Manas Patekar (https://github.com/ManasPatekar/Macros)
-- Kushal Neve
+- Kushal Neve (https://github.com/KushalNeve02)
 - Tanmay Kokare
